@@ -7,6 +7,7 @@ import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 
 public class UserEndPoints {
+	
 
 	public static Response createUser(User payload) {
 
